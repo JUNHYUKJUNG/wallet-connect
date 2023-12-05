@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "callMyName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"MyFirstContract.sol": "MyFirstContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"MyFirstContract.sol": {
+			"keccak256": "0x3161840aaff02c64b75733ee52eb3c2804cc4a92f0051f1f5c65a227aa7c97fb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://576124ce71bb5504ea702213224834b502e9f3d6ba6d16ef9837bf77a2986b76",
+				"dweb:/ipfs/Qmf19kQGvk5zumTAYW5QNC3QP9NA8g17RVbmJNmoi6EgPP"
+			]
+		}
+	},
+	"version": 1
+}
